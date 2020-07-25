@@ -11,7 +11,7 @@ Prerequisites: Python 3
 
 Project based off of [this tutorial](https://robertheaton.com/2018/07/20/project-2-game-of-life/)
 
-[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) the map is 
+[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ## Usage
 
